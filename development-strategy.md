@@ -7,7 +7,8 @@
 | __HTML content__ | As an enthusiastic HYF student I can crete HTML structure, so that i have good semantic base to build upon | An empty template project with `doctype`, language, charset, `head` & `body` | none|
 | __Mobile CSS code__ | As an enthusiastic HYF student I can  crate the CSS code for mobile version so i can | none | Basic rules for the layout |
 | __Tablet CSS code__| As an enthusiastic HYF student I can | none | a media query for the tablet CSS |
-| __Desktop CSS code__| As an enthusiastic HYF student I can | none | a media query for the desktop CSS |
+| __Desktop CSS code__| As an enthusiastic HYF student I can adjust  | none | a media query for the desktop CSS |
+| __Add some nice colors__| As an enthusiastic HYF student I can add some colors styles so that i have even nices looking website | none | mostly colors |
 
 
 
